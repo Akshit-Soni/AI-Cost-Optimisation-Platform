@@ -100,7 +100,7 @@ src/
 ### API Endpoints
 ```typescript
 // Base URL
-const LYZR_API_BASE = 'https://agent.api.lyzr.app';
+const LYZR_API_BASE = 'https://agent-prod.studio.lyzr.ai/'
 
 // Chat completion endpoint
 POST /v3/chat/completions
@@ -134,7 +134,7 @@ Headers: {
 }
 ```
 
-## 📊 Assessment Flow
+## 📊 Assessment Flow (Current)
 
 ### Step 1: Company Profile
 - Company name and industry
@@ -167,14 +167,14 @@ Headers: {
 - Error handling and loading states
 
 ### 🔄 Current Phase
-- API endpoint optimization
-- Production deployment preparation
-- User experience refinements
+- Multi-agent system expansion
 
 ### 🎯 Next Steps
+- API endpoint optimization
+- User experience refinements
 - Performance monitoring
 - Advanced analytics dashboard
-- Multi-agent system expansion
+- Production deployment preparation
 - Enterprise features (custom branding, exports)
 
 ## 🚀 Deployment
